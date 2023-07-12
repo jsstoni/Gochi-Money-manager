@@ -1,6 +1,6 @@
 # Mis Finanzas
 
-This template should help get you started developing with Vue 3 in Vite.
+![Project](https://i.ibb.co/p3N1TMp/moneymanager.png)
 
 ## Recommended IDE Setup
 
