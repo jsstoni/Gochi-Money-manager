@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Backend
+[Backend - API](https://github.com/jsstoni/Gochi-Backend-API)
