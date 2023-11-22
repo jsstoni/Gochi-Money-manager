@@ -8,7 +8,7 @@ import datePicker from "@/datePicker";
 import "./assets/style.scss";
 import "vue3-toastify/dist/index.css";
 
-axios.defaults.baseURL = "http://localhost/MVC-PROYECT/";
+axios.defaults.baseURL = "http://localhost:9000";
 axios.interceptors.request.use((config) => {
   if (store.state.session) {
     config.headers.Authorization = store.state.session;
